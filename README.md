@@ -52,3 +52,9 @@ The Easy ensemble ada booster classifier had a balance score of .92, with low ri
 The forest classifier has a balance score of .78 and a low risk presion score of 1 and high risk as .04. The recall scores are low risk .92 and high risk .66.
 
 ![balance random forest classifier](https://user-images.githubusercontent.com/100543143/174502108-46462d11-a110-4e37-a6ff-6a1bddadf54a.png)
+
+
+
+## Summary ##
+
+The best balance score is Easy Ensemble, which got .92, a recall score of .94 low and .91 high and with the higher balance score the client is more knowledge about about aaccurate data and models.
